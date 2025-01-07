@@ -1,13 +1,13 @@
 
 # Laboratoire 2
 
-Prénom : (à remplir)
+Prénom : Amel
 
-Nom : (à remplir)
+Nom : Chaouch
 
-Numéro d'étudiant : (à remplir)
+Numéro d'étudiant : 202495127
 
-Url du site : (à remplir)
+Url du site : https://amal362.github.io
 
 Résultat : / 10
 
